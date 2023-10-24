@@ -1,5 +1,5 @@
 import { Link } from "ui";
-import { Button } from '../components/Button'
+// import { Button } from '../components/Button'
 
 export default function Index(): JSX.Element {
   return (
