@@ -7,7 +7,7 @@ export const Button = forwardRef(
       <button
         {...props}
         // comment out the next line to see it crash
-        className={styles.root}
+        // className={styles.root}
         ref={ref}
       >
         {children}
